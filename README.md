@@ -19,7 +19,7 @@ I'm a Senior Golang Developer with extensive experience in building high-perform
 - **Frameworks:** Gin, Echo, gRPC
 - **Tools:** Docker, Kubernetes, Terraform
 - **Databases:** PostgreSQL, MS SQL, MySQL
-- **NoSQL** MongoDB, DynamoDB, Redis/Sentinel, Memcached, Cassandra, ClickHouse
+- **NoSQL:** MongoDB, DynamoDB, Redis/Sentinel, Memcached, Cassandra, ClickHouse
 - **AWS:** Lambda, EC2, S3, EMR, SQS, SNS, ECS, EKS, RDS , ELB, DynamoDB 
 - **GCP:** PubSub, Cloud Functions, GCE, Storage, Firestore, Cloud Spanner, BigQuery,
   Bigtable, CDN, CLB
