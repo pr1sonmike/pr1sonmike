@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I'm a Senior Golang Developer with extensive experience in building high-performance, scalable applications.
+I am a Senior Golang Developer with 10+ years of experience building high-performance, scalable applications. Proficient in distributed systems, microservices, and cloud-native solutions. 
+
+Holder of a Bachelor of Science in Computer Science. Available in +3 GMT.
 
 ### About Me
 
@@ -10,7 +12,6 @@ I'm a Senior Golang Developer with extensive experience in building high-perform
 - 🤔 I’m looking for help with contributing to the Go standard library.
 - 💬 Ask me about Go, microservices, and cloud architecture.
 - 📫 How to reach me: [nurbek.chymbaev@gmail.com](mailto:nurbek.chymbaev@gmail.com)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex algorithms and participating in coding challenges.
 
 ### Skills
@@ -23,7 +24,6 @@ I'm a Senior Golang Developer with extensive experience in building high-perform
 - **AWS:** Lambda, EC2, S3, EMR, SQS, SNS, ECS, EKS, RDS , ELB, DynamoDB 
 - **GCP:** PubSub, Cloud Functions, GCE, Storage, Firestore, Cloud Spanner, BigQuery,
   Bigtable, CDN, CLB
-- **Azure:** Functions, VM, Blob Storage, SQL Database, CosmosDB, Service Bus, Event Grid
 - **CI/CD:** Jenkins, GitLab CI, GitHub Actions, CircleCI
 - **Monitoring:** Prometheus, Grafana, Datadog, New Relic, Uptrace
 - **Message Brokers:** Kafka, NATS, RabbitMQ, PubSub, SQS, Kinesis, Watermill
@@ -31,15 +31,9 @@ I'm a Senior Golang Developer with extensive experience in building high-perform
 - **Testing:** Unit, Integration, E2E, Load, Stress, Chaos
 - **Methodologies:** Agile, Scrum, Kanban, Waterfall
 - **Others:** Clean Architecture, Design Patterns, Concurrency Patterns, Algorithms
-- **OS:** Linux, Windows
-- **IDE:** VSCode, Goland, PHPStorm, WebStorm
-- **VCS:** Git, SVN
 - **Collaboration:** Jira, Confluence, Slack, Zoom, Google Meet, Microsoft Teams
 - **Communication:** English, Russian
 - **Soft Skills:** Leadership, Teamwork, Problem-Solving, Decision-Making, Communication
-- **Education:** Bachelor of Science in Computer Science
-- **Experience:** 10+ years
-- **Location:** +3 GMT
 
 ### Connect with Me
 
