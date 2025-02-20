@@ -11,7 +11,7 @@ Holder of a **Bachelor Degree in Computer Science**. Available in **+1 GMT**.
 - 👯 I’m looking to collaborate on open-source Golang projects.
 - 🤔 I’m looking for help with contributing to the Go standard library.
 - 💬 Ask me about Go, microservices, and cloud architecture.
-- 📫 How to reach me: [nurbek.chymbaev@gmail.com](mailto:nurbek.chymbaev@gmail.com)
+- 📫 How to reach me: [nurbek.chymbaev@gmail.com](mailto:nurbek.chymbaev@gmail.com) &nbsp; [LinkedIn](https://www.linkedin.com/in/nurbek-chymbaev-864942168/)
 - ⚡ Fun fact: I love solving complex algorithms and participating in coding challenges.
 
 ### Skills
@@ -30,8 +30,4 @@ Holder of a **Bachelor Degree in Computer Science**. Available in **+1 GMT**.
 - **Testing:** Unit, Integration, E2E, Load, Stress, Chaos
 - **Methodologies:** Agile, Scrum, Kanban, Waterfall
 - **Others:** Clean Architecture, Design Patterns, Concurrency Patterns, Algorithms
-
-### Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/nurbek-chymbaev-864942168/)
 ```
