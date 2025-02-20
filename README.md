@@ -2,7 +2,7 @@
 
 I am a **Senior Golang Developer** with 10+ years of experience building high-performance, scalable applications. Proficient in distributed systems, microservices, and cloud-native solutions. 
 
-Holder of a **Bachelor Degree in Computer Science**. Available in **+2 GMT**.
+Holder of a **Bachelor Degree in Computer Science**. Available in **+1 GMT**.
 
 ### About Me
 
