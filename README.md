@@ -16,8 +16,7 @@ Holder of a **Bachelor Degree in Computer Science**. Available in **+2 GMT**.
 
 ### Skills
 - **Architecture:** Microservices, Serverless, Monoliths, SOA 
-- **Languages:** Go, PHP, JavaScript
-- **Frameworks:** Gin, Echo, gRPC
+- **Languages:** Go, TypeScript, PHP, JavaScript
 - **Tools:** Docker, Kubernetes, Terraform
 - **Databases:** PostgreSQL, MS SQL, MySQL
 - **NoSQL:** MongoDB, DynamoDB, Redis/Sentinel, Memcached, Cassandra, ClickHouse
@@ -31,9 +30,6 @@ Holder of a **Bachelor Degree in Computer Science**. Available in **+2 GMT**.
 - **Testing:** Unit, Integration, E2E, Load, Stress, Chaos
 - **Methodologies:** Agile, Scrum, Kanban, Waterfall
 - **Others:** Clean Architecture, Design Patterns, Concurrency Patterns, Algorithms
-- **Collaboration:** Jira, Confluence, Slack, Zoom, Google Meet, Microsoft Teams
-- **Communication:** English, Russian
-- **Soft Skills:** Leadership, Teamwork, Problem-Solving, Decision-Making, Communication
 
 ### Connect with Me
 
