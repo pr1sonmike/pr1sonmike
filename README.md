@@ -5,8 +5,6 @@ I'm a **Senior Software Developer** with 10+ years of experience building scalab
 🕒 **Timezone:** +1 GMT  
 🎓 **Education:** BSc in Computer Science
 
----
-
 ### 🚀 About Me
 
 - 🔭 Working on distributed systems & event-driven services
@@ -14,8 +12,6 @@ I'm a **Senior Software Developer** with 10+ years of experience building scalab
 - 👯 Open to collaborating on Go-based OSS
 - 🤝 Interested in contributing to the Go standard library
 - 💬 Ask me about Go, cloud architecture, and system design
-
----
 
 ### 🛠 Tech Stack
 
@@ -26,8 +22,6 @@ I'm a **Senior Software Developer** with 10+ years of experience building scalab
 - **Databases:** PostgreSQL, MySQL, Redis, MongoDB, ClickHouse  
 - **Messaging:** Kafka, NATS, RabbitMQ, SQS, Watermill  
 - **CI/CD & Monitoring:** GitHub Actions, Jenkins, Prometheus, Grafana, Datadog  
-
----
 
 ### 📫 Reach Me
 
