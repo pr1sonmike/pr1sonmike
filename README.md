@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **Senior Software Developer** with 10+ years of experience building scalable, high-performance systems. I specialize in **Go**, **microservices**, and **cloud-native architectures**.
+I'm a **Senior Software Developer** with 10+ years of experience building scalable, high-performance systems. I specialize in **Go/Golang**, **PHP**, **microservices**, and **cloud-native architectures**.
 
 🕒 **Timezone:** +1 GMT  
 🎓 **Education:** BSc in Computer Science
